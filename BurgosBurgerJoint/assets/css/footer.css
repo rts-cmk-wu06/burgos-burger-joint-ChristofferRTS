@@ -1,0 +1,41 @@
+#footer{
+    background: linear-gradient(180deg, rgba(54,83,104,1) 0%, rgba(30,47,64,1) 100%);
+    width: 100%;
+    height: 29.75vw;
+    margin-top: 29%;
+}
+
+#burgerpng img{
+    position: relative;
+    left: 50px;
+    bottom: 140px;
+    height: auto;
+    width: 40%;
+}
+
+#burgerpng{
+    height: 10px;
+    width: auto;
+}
+
+#instagram{
+    float: right;
+    margin-top: 5.5%;
+    color: white;
+    margin-right: 2%;
+}
+
+#gradientCircle{
+    background: linear-gradient(0deg, rgba(243,115,53,1) 0%, rgba(251,183,49,1) 100%);
+    min-height: 23px;
+    min-width: 23px;
+    max-height: 23px;
+    max-width: 23px;
+    border-radius: 100px;
+}
+
+#copyright{
+    margin-top: 26%;
+    margin-left: 31%;
+    margin-right: 31%;
+}

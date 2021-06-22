@@ -1,0 +1,29 @@
+#main{
+    display: flex;
+    height: 202.5vw;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Main Sections */
+
+#adAndGallery{
+    background-color: white;
+    width: 100%;
+    height: 48.85%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#yummies{
+    background: linear-gradient(0deg, rgba(243,115,53,1) 0%, rgba(251,183,49,1) 100%);
+    width: 100%;
+    min-height: 21.18%;
+}
+
+#kontakt{
+    background-color: white;
+    width: 100%;
+    height: 29.97%;
+}

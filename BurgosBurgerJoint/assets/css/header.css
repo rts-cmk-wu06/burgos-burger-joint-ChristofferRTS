@@ -1,0 +1,54 @@
+#header{
+    width: 100%;
+    height: 50vw;
+    background-image: url("../images/hero01.jpg");
+    background-size: cover;
+}
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+    width: 92%;
+    max-height: 10%;
+    padding: 4%;
+    padding-bottom: 0;
+}
+
+/* Name and logo */
+
+#nameLogo{
+    width: 50%;
+    height: 100%;
+    color: white;
+    font-size: 11px;
+}
+
+#logoSquare{
+    background-color: #FBB731;
+    height: 50%;
+    width: 50%;
+}
+
+#nameLogo img{
+    width: 3.5%;
+    height: auto;
+}
+
+/* Navigation Options */
+
+#navOptions{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    height: 100%;
+    color: white;
+}
+
+/* Gradient Rectangle */
+
+#translusentGradientRectangle{
+    background: linear-gradient(0deg, rgba(243,115,53,0.8) 0%, rgba(251,183,49,0.8) 100%);
+    min-height: 50vw;
+    width: 30%;
+    margin-left: 20%;
+}
